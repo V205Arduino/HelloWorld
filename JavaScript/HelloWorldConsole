@@ -1,1 +1,4 @@
-println("Hello world!")
+//Bare minimum hello World.
+println("Hello world!");//Prints a line of data to the console.
+
+print("Hello world 2!"); //Prints data to the console, without creating a new line (like println does).
